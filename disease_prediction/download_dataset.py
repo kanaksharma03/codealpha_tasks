@@ -129,7 +129,6 @@ svm_predictions = svm_model.predict(X_test)
 print("SVM Accuracy:", accuracy_score(y_test, svm_predictions))
 
 #prediction of new patient 
-# Predict for a new patient
 
 new_patient = [[2, 120, 70, 20, 79, 25.0, 0.5, 30]]
 
@@ -141,7 +140,6 @@ else:
     print("Patient is likely Non-Diabetic")
 
 #probability of new patient
-# Prediction probability
 
 probability = rf_model.predict_proba(new_patient)
 
