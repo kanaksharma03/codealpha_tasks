@@ -35,32 +35,6 @@ A machine learning model developed to assess the creditworthiness of individuals
 * Performance comparison
 
 ---
-
-### 3. Handwritten Text Recognition
-
-A computer vision and machine learning project that recognizes handwritten characters or digits from images.
-
-**Key Features**
-
-* Image preprocessing
-* Handwritten digit/character recognition
-* Machine learning based classification
-* Prediction of handwritten inputs
-* Accuracy evaluation
-
----
-
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* OpenCV
-* Joblib
-
 ## Learning Outcomes
 
 Through these projects, I gained practical experience in:
