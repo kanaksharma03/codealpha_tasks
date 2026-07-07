@@ -43,5 +43,3 @@ Through these projects, I gained practical experience in:
 * Machine Learning algorithms
 * Model evaluation and comparison
 * Feature engineering
-* Computer Vision fundamentals
-* Real-world problem solving using AI and ML
